@@ -24,7 +24,3 @@
 <img src="./public/images/connection.png" alt="connection">
 <h3>7- base de datos</h3>
 <img src="./public/images/base%20de%20datos.png" alt="bd">
-
-
-
-
