@@ -12,6 +12,7 @@
 <img src="./public/images/calculo_edad.png" alt="calculo">
 
 <h2>Punto 3: </h2>
+<img src="./public/images/parte%20frontal.png" alt="datos">
 <img src="./public/images/datos_usuario.png" alt="datos">
 
 <h2>Punto 4: </h2>
