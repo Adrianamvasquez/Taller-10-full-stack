@@ -1,12 +1,10 @@
 <?php
 
-$edad = "";
-$today = "";
-$result = "";
+
+
 $result1 = "";
 $result3 = "";
 $age = "";
-$age1 = "";
 $name = "";
 
 
